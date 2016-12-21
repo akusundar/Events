@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_venue_options">
+        <item>@string/venue_1</item>
+        <item>@string/venue_2</item>
+        <item>@string/unknown_venue</item>
+
+
+        venue</string-array>
+    <string name="venue_1">Sion</string>
+    <string name="venue_2">Malad</string>
+    <string name="unknown_venue">Unknown Venue</string>
+</resources>
